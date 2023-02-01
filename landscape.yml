@@ -1269,6 +1269,12 @@ landscape:
             homepage_url: https://ovio.org
             logo: ovio.svg
             crunchbase: https://www.crunchbase.com/organization/ovio
+          - item:
+            name: OpenDigger
+            homepage_url: http://www.x-lab.info/open-digger/#/
+            repo_url: https://github.com/X-lab2017/open-digger
+            logo: opendigger.svg
+            crunchbase: https://www.crunchbase.com/organization/open-source-alliance
       - subcategory:
         name: Project Quality
         items:
